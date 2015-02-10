@@ -7,7 +7,7 @@
 	<remote name="github-mind4se" fetch="https://github.com/Mind4SE" />
 
 	<!-- Git projects from github-ssz remote -->
-	<project path="mind-compiler" name="mind-compiler" remote="github-ssz" sync-c="true" revision="master" />
+	<project path="mind-compiler" name="mind-compiler" remote="github-ssz" sync-c="true" revision="interface-inheritance-override" />
 	<project path="global-extensions" name="global-extensions" remote="github-ssz" sync-c="true" revision="master" />
 	<project path="iar-extension" name="iar-extension" remote="github-ssz" sync-c="true" revision="master" />
 
